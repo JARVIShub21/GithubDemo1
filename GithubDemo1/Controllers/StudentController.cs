@@ -13,5 +13,10 @@ namespace GithubDemo1.Controllers
         {
             return View();
         }
+        
+         public ActionResult Index1()
+        {
+            return View();
+        }
     }
 }
